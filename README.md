@@ -1,7 +1,5 @@
 # Formulário de login
 
-Um parágrafo da descrição do projeto vai aqui
-
 ## 🚀 Tecnologias utilizadas HTML e CSS.
 
 Somente criei esse formulario para treinar HTML e CSS.
