@@ -44,6 +44,11 @@ button {
     text-transform: uppercase;
 }
 
+
+button:hover {
+    background: #256a8a;
+}
+
 input {
     padding: 10px 20px;
     border-radius: 10px;
